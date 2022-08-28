@@ -1,4 +1,4 @@
-package com.nft_market.newarchitecture.components;
+package com.hus.nft_market.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

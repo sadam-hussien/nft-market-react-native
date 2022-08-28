@@ -1,4 +1,4 @@
-package com.nft_market.newarchitecture;
+package com.hus.nft_market.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.nft_market.BuildConfig;
-import com.nft_market.newarchitecture.components.MainComponentsRegistry;
-import com.nft_market.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.hus.nft_market.BuildConfig;
+import com.hus.nft_market.newarchitecture.components.MainComponentsRegistry;
+import com.hus.nft_market.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

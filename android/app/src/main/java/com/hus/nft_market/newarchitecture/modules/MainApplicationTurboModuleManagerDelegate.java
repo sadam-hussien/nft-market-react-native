@@ -1,4 +1,4 @@
-package com.nft_market.newarchitecture.modules;
+package com.hus.nft_market.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

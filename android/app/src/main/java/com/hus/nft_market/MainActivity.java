@@ -1,4 +1,4 @@
-package com.nft_market;
+package com.hus.nft_market;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
